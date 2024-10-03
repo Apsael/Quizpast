@@ -1,0 +1,38 @@
+{
+  "question": [
+    "Q1. What is the past tense of 'go'?",
+    "Q2. Which of the following is a regular verb in the past tense?",
+    "Q3. What did 'she' do yesterday?",
+    "Q4. They _______ to Samaipata last year",
+    "Q5. What is the short negative form of 'did'?",
+    "Q6. Which sentence is in the simple past tense?",
+    "Q7. Diego ________ you last week",
+    "Q8. What time _________ the meeting start?",
+    "Q9. Which of these verbs is an irregular one in the past tense?",
+    "Q10. How long did they _________ at the party last night?"
+  ],
+  "answer": [
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    1,
+    2,
+    4
+  ],
+  "options": [
+    ["went", "goed", "goes", "going"],
+    ["swore", "ate", "played", "ran"],
+    ["She is cooking dinner", "She went to the park", "She will study", "She watches TV"],
+    ["walk", "fly", "gone", "traveled"],
+    ["didn't", "not did", "don't", "doesn't"],
+    ["I have gone to the store", "I am going to the store", "I went to the store", "I go to the store"],
+    ["visit", "visited", "have visited", "visiting"],
+    ["did", "will", "have", "is"],
+    ["baked", "saw", "jumped", "played"],
+    ["staying", "stood", "stayed", "stay"]
+  ]
+}
