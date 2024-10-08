@@ -183,9 +183,9 @@ gui.geometry("800x450")
 gui.resizable(False, False)
 gui.title("Quizpast")
 
-# get the data from the json file
+# get the data from the json file with utf-8 encoding
 data_file = Path(__file__).parent / 'data.json'
-with open(data_file) as f:
+with open(data_file, 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # set the question, options, and answer
